@@ -1,0 +1,82 @@
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.nav-buttons a {
+    background: #555;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;
+    transition: background 0.3s;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 3px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+ul{
+    margin-bottom: 2%;
+}
+li{
+    margin-top: 2%;
+}
+
+
+img{
+    width: 60%;
+    margin: 1% 0% 0% 20%;
+}
+
+h4{
+    color: gray;
+}
+
+.selecione{
+    text-align: center;
+    font-size: 120%;
+    font-weight: 500;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.descricao{
+    width: 70%;
+    text-align: justify;
+}
+
+.content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+.uso{
+    text-align: center;
+    font-weight: 600;
+}
